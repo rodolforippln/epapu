@@ -417,12 +417,13 @@ align-items:initial;
 
 .linha1 .card img, 
 .linha2 .card2 img, 
-.linha3 .card3 img {    
-    filter: brightness(200%);
-    filter: invert(1);
-    transform: scale(0.9);
-    opacity : 0.5;
-    width: 80%;
+.linha3 .card3 img {
+
+    opacity: 0.7;
+    padding-left: 10px;
+    width: 170px;
+
+
 }
 
 .btn
